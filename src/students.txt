@@ -2,3 +2,6 @@ Student Management Application
 Student Name: Rahul
 Student ID: 101
 Course: CSE
+Student Name: Priya
+Student ID: 102
+Course: CSE
